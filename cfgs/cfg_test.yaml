@@ -1,0 +1,67 @@
+CLASS_NAMES: ['Vehicle', 'Pedestrian', 'Cyclist']
+
+
+data:
+    samples_per_gpu: 24
+    workers_per_gpu: 1
+    train:
+        typename: seir_patch_dataset
+        resize:
+            h: 900 
+            w: 900
+            pad_value: 255
+        
+        patch_infos:
+            w_nub: 9
+            h_nub: 9
+        nose:
+            type: gaus
+
+        trans_img:
+            Normalize:
+                mean: [0.485, 0.456, 0.406]
+                std: [0.229, 0.224, 0.225]
+
+
+train_engine:
+    typename: TrainEngine
+    model: 
+        typename: DETR
+
+        backbone:
+            NAME: MeanVFE
+
+        neck:
+            NAME: VoxelResBackBone8x
+
+        head:
+            NAME: BaseBEVBackbone
+
+            LAYER_NUMS: [5, 5]
+            LAYER_STRIDES: [1, 2]
+            NUM_FILTERS: [128, 256]
+            UPSAMPLE_STRIDES: [1, 2]
+            NUM_UPSAMPLE_FILTERS: [256, 256]
+    criterion:
+        typename: BBoxAnchorCriterion
+        num_classes: num_classes
+        meshgrid: meshgrid
+        bbox_coder: bbox_coder
+        loss_cls:
+            typename: FocalLoss
+            gamma: 2.0
+
+        train_cfg: 
+            assigner:
+                typename: MaxIoUAssigner
+                pos_iou_thr: 0.5
+
+            allowed_border: -1
+
+    optimizer:
+        typename: SGD
+        lr: 0.01
+        momentum: 0.9
+        weight_decay: 0.0001
+
+log_level: INFO
