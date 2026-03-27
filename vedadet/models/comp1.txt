@@ -1,0 +1,52 @@
+[1]Kingma P D ,Welling M .Auto-Encoding Variational Bayes.[J].CoRR,2013,abs/1312.6114
+[2]Goodfellow I, Pouget-Abadie J, Mirza M, et al. Generative adversarial nets[C]//Advances in Neural Information Processing Systems (NeurIPS). 2014:2672-2680.
+[3]Yi L ,Changsheng Z ,Xingjun D .A survey of real-time surface defect inspection methods based on deep learning[J].Artificial Intelligence Review,2023,56(10):12131-12170.
+[4]Qinfeng X ,Jing W ,Youfang L , et al.Unsupervised Anomaly Detection with Distillated Teacher-Student Network Ensemble[J].Entropy,2021,23(2):23-201.
+[5]李东明.工业印刷标签表面缺陷检测方法研究及应用[D].哈尔滨：哈尔滨工业大学,2024.
+[6]H. Deng and X. Li, Anomaly Detection via Reverse Distillation from One-Class Embedding.[C]. 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, doi: 10.1109/CVPR52688.2022.00951:9727-9736
+[7]崔焱,彭可,杨玉娥,等.基于机器视觉的手机盖板表面缺陷检测系统设计[J].制造业自动化,2023,45(07):75-79+96.
+[8]Z. Liu, Y. Zhou, Y. Xu and Z. Wang, SimpleNet: A Simple Network for Image Anomaly Detection and Localization,2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Vancouver, BC, Canada.doi: 10.1109/CVPR52729.2023.01954. 2023:20402-20411
+[9]史广,贺福强,史红燕,等.基于深度学习的航空发动机叶片缺陷检测技术综述[J/OL].航空动力学报,1-21[2025-04-08].https://doi.org/10.13224/j.cnki.jasp.20240411.
+[10]付强.基于深度学习的工业图像缺陷检测方法研究[D].东莞：东莞理工学院,2024.
+[11]孙博远,刘夏雷,侯淇彬.基于深度学习的半监督语义分割综述[J].北京交通大学学报,2024,48(02),10-22.
+[12]陈腾飞.基于自监督学习的工业零件表面缺陷检测方法研究[D].岳阳：湖南理工学院,2024.
+[13]李壮.基于图像处理与深度学习的FPC缺陷检测技术研究[D].沈阳：沈阳工业大学,2024.
+[14]刘新.基于改进U-Net的血液透析器滤芯端切面缺陷检测研究[D].烟台；烟台大学,2024.
+[15]谭江北.太阳能电池图像智能缺陷检测方法[D].杭州：杭州电子科技大学,2024.
+[16]薛辰宇.铝合金T形焊件射线图像模拟及缺陷定位模型验证[D].盐城：盐城工学院,2024.
+[17]裴鑫.融合深度学习的工业图像分类与缺陷检测方法研究[D].杭州：杭州电子科技大学,2024.
+[18]黄春森.基于深度学习的船舶焊缝缺陷检测研究[D].重庆：重庆交通大学,2024.
+[19]肖衡.基于机器视觉的工业零件焊接图像缺陷检测[J].传感器世界,2023,29(08):32-36.
+[20]O. Rippel, P. Mertens, E. König , et al. Gaussian Anomaly Detection by Modeling the Distribution of Normal Data in Pretrained Deep Features[C]// in IEEE Transactions on Instrumentation and Measurement, vol. 70, pp. 1-13, 2021, Art no. 5014213, doi: 10.1109/TIM.2021.3098381.
+[21]Lei M ,Zhao J ,Sahan Z A , et al.Deep Learning Assisted Plasmonic Dark-Field Microscopy for Super-Resolution Label-Free Imaging.[J].Nano letters,2024,
+[22]Peixuan D ,Yi X ,Pan Q , et al.A novel deep learning approach for intelligent bearing fault diagnosis under extremely small samples[J].Applied Intelligence,2024,54(7):5306-5316.
+[23]Lai Y ,Qi Y,Zeng X.Fuzzy system for image defect detection based on machine vision[J].International Journal of Manufacturing Technology and Management,2024,38(4-5):342-360.
+[24]Dino I ,Raffaele G ,Roberto I .A constrastive semi-supervised deep learning framework for land cover classification of satellite time series with limited labels[J].Neurocomputing,2024,567
+[25]Jianyu L ,Yibin C ,Zhe Y , et al.A novel self-training semi-supervised deep learning approach for machinery fault diagnosis[J].International Journal of Production Research,2023,61(23):8238-8251.
+[26]Krisztian K ,Gáspár O ,Tamas B , et al.Automatic deep learning-driven label-free image-guided patch clamp system[J].Nature Communications,2021,12(1):936-936.
+[27]Tian K ,Shi R J ,Yang X C , et al.Two Algorithms of Defect Detection about Digital Radiograph Image[J].Applied Mechanics and Materials,2014,3365(602-605):2093-2096.
+[28]Wang C ,Jiang C B ,Lin J , et al.Machine Vision-Based Defect Detection in IC Images Using the Partial Information Correlation Coefficient[J].IEEE Transactions on Semiconductor Manufacturing,2013,26(3):378-384.
+[29]Guo M W ,Chen Q Y .An Effective Method for Defects Detection in Radiographic Images of Welds Based on Edge Detection and Morphology[J].Applied Mechanics and Materials,2013,2278(290-290):71-77.
+[30]Honggui D ,Yu C ,Yuxin F , et al.Industrial Laser Welding Defect Detection and Image Defect Recognition Based on Deep Learning Model Developed[J].Symmetry,2021,13(9):1731-1731.
+[31]Bergmann P ,Batzner K ,Fauser M , et al.The MVTec Anomaly Detection Dataset: A Comprehensive Real-World Dataset for Unsupervised Anomaly Detection[J].International Journal of Computer Vision,2021,129(4):1-22.
+[32]Zagoruyko S ,Komodakis N .Wide Residual Networks.[J].CoRR,2016,abs/1605.07146
+[33]Razavi A ,Oord D V A ,Vinyals O .Generating Diverse High-Fidelity Images with VQ-VAE-2.[J].CoRR,2019,abs/1906.00446
+[34]Kingma P D ,Ba J .Adam: A Method for Stochastic Optimization.[J].CoRR,2014,abs/1412.6980
+[35]K. He, X. Zhang, S. Ren,et al.Deep Residual Learning for Image Recognition[C]//2016 IEEE Conference on Computer Vision and Pattern Recognition, Las Vegas, NV, USA, 2016, doi: 10.1109/CVPR.2016.90:770-778
+[36]Dosovitskiy A, Beyer L, Kolesnikov A, et al. An image is worth 16x16 words: Transformers for image recognition at scale[J]. arXiv preprint arXiv:2020.10(9):929-970.
+[37]Ronneberger O, Fischer P, Brox T. U-net: Convolutional networks for biomedical image segmentation[C]//Medical Image Computing and Computer-Assisted Intervention–MICCAI 2015: 18th International Conference, Munich, Germany, October 5-9, 2015, Proceedings, Part III 18. Springer International Publishing, 2015:234-241.
+[38]司兆峰,齐洪钢.知识蒸馏方法研究与应用综述[J].中国图象图形学报,2023,28(09):2817-2832.
+[39]邵仁荣,刘宇昂,张伟,等.深度学习中知识蒸馏研究综述[J].计算机学报,2022,45(08):1638-1673.
+[40]方维维,陈爱方,孟娜,等.基于知识蒸馏的目标检测模型增量深度学习方法[J].工程科学与技术,2022,54(06).
+[41]Woo S , Park J , Lee J Y ,et al.CBAM: Convolutional Block Attention Module[J].Springer, Cham, 2018.06(11211):3-19.
+[42]Deng J , Dong W , Socher R ,et al.ImageNet: A large-scale hierarchical image database[C].Proc of IEEE Computer Vision & Pattern Recognition, 2009:248-255.
+[43]Golan I , El-Yaniv R .Deep Anomaly Detection Using Geometric Transformations[C].Proceedings of the 32nd International Conference on Neural Information Processing Systems, NIPS’18, Red Hook, NY, USA, 2018. Curran Associates Inc:9781-9791.
+[44]Akcay S , Atapour-Abarghouei A , Breckon T P .GANomaly : semi-supervised anomaly detection via adversarial training.[J].Newcastle University,Computer Vision. Cham, 2019. Springer International Publishing, 2018,2(08):622-637.
+[45]Bergmann P , Fauser M , Sattlegger D ,et al.Uninformed Students: Student-Teacher Anomaly Detection with Discriminative Latent Embeddings[C].Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2020.
+[46]Yi J , Yoon S .Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation[J]. 2020.1(16):375-390.
+[47]Hou J , Zhang Y , Zhong Q ,et al.Divide-and-Assemble: Learning Block-wise Memory for Unsupervised Anomaly Detection[C].Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).October 2021:8791-8800.
+[48]Wu J C , Chen D J , Fuh C S ,et al.Learning Unsupervised Metaformer for Anomaly Detection[C].Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).October 2021:4368-4378.
+[49]Defard T , Setkov A , Loesch A ,et al.PaDiM.A Patch Distribution Modeling Framework for Anomaly Detection and Localization[C]International Conference on Pattern Recognition.Springer 2021:475-489.
+[50]Sohn K , Chun-Liang L I , Yoon J ,et al.Cutpaste:Self-Supervised Learning for Anomaly Detection and Localization[C]Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) June 2021:9664-9674.
+[51]Cohen N , Hoshen Y .Sub-Image Anomaly Detection with Deep Pyramid Correspondences[J].2020.5(2):23-25.
+[52]Zavrtanik M S D .Reconstruction by inpainting for visual anomaly detection[J].Pattern Recognition: The Journal of the Pattern Recognition Society, 2021, 112(1):3-5.
